@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+* {
+   font-family: 'Inter';
+}
+
+.pkp_site_name .is_img img {
+   max-height: 100%;
+}
+
+.pkp_site_name .is_img {
+   margin: 0;
+}
+
+.pkp_site_name {
+   padding-bottom: 0;
+}
+
+.pkp_site_name_wrapper {
+   padding-left: 0;
+   padding-right: 0;
+}
+
+#navigationPrimary ul {
+   background: #fff;
+}
+
+#navigationPrimary ul li a{
+   color: rgba(0,0,0,0.54);
+}
+
+#navigationPrimary ul li a:hover {
+   color: rgba(0,0,0,0.54);
+}
+
+#navigationPrimary ul li a:hover{
+   background: #fff;
+}
+
+.pkp_brand_footer {
+   display: none;
+}
+
+.pkp_navigation_primary_row {
+   background-color: #0B3486;
+   padding: 15px 50px;
+}
+
+.pkp_search.pkp_search_desktop {
+   color: #fff;
+}
+
+.pkp_search.pkp_search_desktop:hover {
+   color: #fff;
+}
+
+.pkp_search.pkp_search_desktop:focus {
+   background-color: #0B3486;
+   color: #fff;
+}
+
+#navigationPrimary li a {
+   color: #fff;
+}
+
+#navigationPrimary li a:hover {
+   color: #fff;
+}
+
+#navigationPrimary li a:focus {
+   background-color: #0B3486;
+   color: #fff;
+}
+
+.pkp_structure_footer_wrapper {
+   color: #fff;
+   background: #004EEC;
+   border-top: 1px solid #ddd;
+   border-bottom: 3rem solid #1E2F50;
+}
+
+form#login.cmp_form.cmp_form.login label span.label {
+   font-weight: 600;
+   font-style: normal;
+}
+
+form#login.cmp_form.cmp_form.login label input {
+   border-radius: 5px;
+   border: 1px solid #ddd;
+   height: 40px;
+}
+
+form#login.cmp_form.cmp_form.login fieldset.fields .username {
+   padding-bottom: .9em;
+}
+
+form#login.cmp_form.cmp_form.login .buttons button.submit {
+   background-color: #1b62e9;
+   color: #fff;
+   border: none;
+   padding: 3px 20px;
+   border-radius: 5px;
+   cursor: pointer;
+}
+
+form#register.cmp_form.cmp_form.register label span.label {
+   font-weight: 600;
+   font-style: normal;
+}
+
+form#register.cmp_form.cmp_form.register label input,
+form#register.cmp_form.cmp_form.register label select {
+   border-radius: 5px;
+   border: 1px solid #ddd;
+   height: 40px;
+}
+
+form#register.cmp_form.cmp_form.register .buttons button.submit {
+   background-color: #1b62e9;
+   color: #fff;
+   border: none;
+   padding: 3px 20px;
+   border-radius: 5px;
+   cursor: pointer;
+}
+
+form#lostPasswordForm.cmp_form.lost_password label input {
+   border-radius: 5px;
+   border: 1px solid #ddd;
+   height: 40px;
+}
+
+form#lostPasswordForm.cmp_form.lost_password .buttons button.submit {
+   background-color: #1b62e9;
+   color: #fff;
+   border: none;
+   padding: 3px 20px;
+   border-radius: 5px;
+   cursor: pointer;
+}
+
+form#lostPasswordForm.cmp_form.lost_password label span.label {
+   font-weight: 600;
+   font-style: normal;
+}
+
+.pkp_block .title {
+   display: block;
+   padding-bottom: 0;
+   border-bottom: none;
+   font-weight: 700;
+   text-transform: uppercase;
+   background-color: #004eec;
+   padding: 15px;
+   color: #FFF;
+   border-radius: 5px;
+}
