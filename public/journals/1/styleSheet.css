@@ -155,3 +155,22 @@ form#lostPasswordForm.cmp_form.lost_password label span.label {
    color: #FFF;
    border-radius: 5px;
 }
+
+@media (max-width: 991px) {
+   .pkp_site_name .is_img img {
+      display: none;
+   }
+
+   #navigationPrimary ul {
+      background-color: #0b3486;
+   }
+
+   #navigationPrimary ul li a {
+      color: #FFF;
+   }
+
+   .obj_issue_toc .cover img {
+      margin-left: 0;
+      margin-right: 0;
+   }
+}

@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.39, created on 2022-10-25 04:26:29
+/* Smarty version 3.1.39, created on 2022-11-01 09:05:56
   from 'app:frontendobjectsarticlesum' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_635765750af766_01816901',
+  'unifunc' => 'content_6360e174a703a4_49953500',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '7cf1cd52b8ba8108de77f197078de34b733dd394' => 
     array (
       0 => 'app:frontendobjectsarticlesum',
-      1 => 1664910542,
+      1 => 1667293553,
       2 => 'app',
     ),
   ),
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'app:frontend/objects/galley_link.tpl' => 1,
   ),
 ),false)) {
-function content_635765750af766_01816901 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6360e174a703a4_49953500 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\laragon\\www\\ojs\\lib\\pkp\\lib\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.date_format.php','function'=>'smarty_modifier_date_format',),));
 $_smarty_tpl->_assignInScope('articlePath', $_smarty_tpl->tpl_vars['article']->value->getBestId());
 if (!$_smarty_tpl->tpl_vars['heading']->value) {?>
